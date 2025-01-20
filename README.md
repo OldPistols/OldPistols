@@ -10,6 +10,10 @@ I am a dedicated System Analyst who specializes in designing and improving syste
 * 🖥️  See my portfolio at [Taufik Portfolio](http://myapp.com)
 * ✉️  You can contact me at [taufikmastar1995@gmail.com](mailto:taufikmastar1995@gmail.com)
 
+### Assignment
+* [Assignment 1](https://1drv.ms/b/c/824581d76dee3871/EUgg01Ct5ztDnOL-lnAyumwBDYKLIn77684paa2UNTbY2w?e=uiTL0V)](https://1drv.ms/b/c/824581d76dee3871/EUgg01Ct5ztDnOL-lnAyumwBDYKLIn77684paa2UNTbY2w?e=e0rILG))
+* 
+
 ### Skills
 
 
