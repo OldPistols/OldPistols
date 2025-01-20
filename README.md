@@ -7,7 +7,7 @@ System Analyst
 I am a dedicated System Analyst who specializes in designing and improving system architectures and maintaining smooth operations. I am passionate about creating efficient, scalable, and innovative solutions to business challenges.
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [Taufik Portfolio](http://myapp.com)
+* 🖥️  See my portfolio at [Taufik Portfolio]([http://myapp.com](https://taufikahmadgithub-33u9op7km-oldpistols-projects-ec42aa54.vercel.app/))
 * ✉️  You can contact me at [taufikmastar1995@gmail.com](mailto:taufikmastar1995@gmail.com)
 
 ### Assignment
